@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21127988754",
+    "project_id": "banking-app-ui",
+    "storage_bucket": "banking-app-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21127988754:android:4e19f88681ed8681603acb",
+        "android_client_info": {
+          "package_name": "com.mdlabs.banking_app_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21127988754-6r4tecobpp7ffhsa4ce10fvq70moo2nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHWcSXe1_-bqFF2yTyP_vXfmjQbkeI-sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21127988754-6r4tecobpp7ffhsa4ce10fvq70moo2nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

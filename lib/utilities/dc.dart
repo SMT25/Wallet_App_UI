@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 class dcPage extends StatelessWidget {
   final double cardBalance;
   final String cardNumber;
-  final String cardName;
+  final Widget cardName;
   final int expiryMonth;
   final int expiryYear;
   final color;
@@ -81,7 +81,7 @@ class dcPage extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.end,
               children: [
                 Text(
-                  cardName,
+                  cardName.toString(),
                   style: TextStyle(color: Colors.white),
                 ),
               ],
